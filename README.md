@@ -6,6 +6,7 @@ Informações sobre a comunidade Brasileira de Go
 
 __Slack público__
 [http://golangbrazil.slack.com](http://golangbrazil.slack.com)
+
 Link para invite: [https://slack-golangbrazil.herokuapp.com](https://slack-golangbrazil.herokuapp.com)
 
 
