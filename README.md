@@ -13,7 +13,7 @@ __Grupo no facebook__
 [https://www.facebook.com/groups/golang.br/](https://www.facebook.com/groups/golang.br/)
 
 
-## Informações sobre o encontro semanal de Go no Centro do Rio.
+### Informações sobre o encontro semanal de Go no Centro do Rio.
 __Gophers__
 - [Gabriel Arrais](https://github.com/gabrielarrais)
 - [Marco Agner](https://github.com/marcoagner)
